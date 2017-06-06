@@ -1,0 +1,12 @@
+{
+  "generator-steeplejack": {
+    "name": "raml-mocks",
+    "description": "Generate a mocked API from your RAML definition",
+    "author": "Simon Emms <simon@simonemms.com>",
+    "lint": "airbnb",
+    "compile": true,
+    "server": "express",
+    "sockets": false,
+    "envvarPrefix": ""
+  }
+}

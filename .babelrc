@@ -1,0 +1,22 @@
+{
+  "env": {
+    "scripts": {
+      "presets": [
+        "env"
+      ]
+    },
+    "server": {
+      "presets": [
+        "latest"
+      ]
+    },
+    "test": {
+      "presets": [
+        "latest"
+      ],
+      "plugins": [
+        "istanbul"
+      ]
+    }
+  }
+}

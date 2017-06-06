@@ -1,0 +1,14 @@
+{
+  "logging": {
+    "name": "LOGGING_STREAMS_NAME",
+    "streams": {
+      "stdout": {
+        "active": "LOGGING_STREAMS_STDOUT_ACTIVE",
+        "level": "LOGGING_STREAMS_STDOUT_LEVEL"
+      }
+    }
+  },
+  "server": {
+    "port": "SERVER_PORT"
+  }
+}
